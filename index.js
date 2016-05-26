@@ -1,3 +1,5 @@
+// Подключение модулей. Вызов встроенных методов.
+
 var ansi = require('ansi');
 var cursor = ansi(process.stdout);
 
