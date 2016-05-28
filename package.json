@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "ansi": "^0.3.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,12 +20,5 @@
   "bugs": {
     "url": "https://github.com/ks-s-a/node_lesson_1/issues"
   },
-  "homepage": "https://github.com/ks-s-a/node_lesson_1#readme",
-  "dependencies": {
-    "ansi": "^0.3.1",
-    "request": "^2.72.0"
-  },
-  "devDependencies": {
-    "co": "^4.6.0"
-  }
+  "homepage": "https://github.com/ks-s-a/node_lesson_1#readme"
 }
